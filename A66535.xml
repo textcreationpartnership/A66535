@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration from the Lord of hosts against the idol shepherds and the testimony of his spirit of their destruction being near at-hand : and also the glory of the Lord that shall appear to his people.</title>
+            <author>Willyer, Laurence.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66535</idno>
+            <idno type="STC">Wing W2881</idno>
+            <idno type="STC">ESTC R26382</idno>
+            <idno type="EEBO-CITATION">09448020</idno>
+            <idno type="OCLC">ocm 09448020</idno>
+            <idno type="VID">43129</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66535)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43129)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1320:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration from the Lord of hosts against the idol shepherds and the testimony of his spirit of their destruction being near at-hand : and also the glory of the Lord that shall appear to his people.</title>
+                  <author>Willyer, Laurence.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Laurence Willyer.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Wrath.</term>
+               <term>God --  Promises.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43129:1" rendition="simple:additions"/>
+            <p>A DECLARATION FROM THE Lord of Hoſts, Againſt the Idol SHEPHERDS: AND THE Teſtimony of his Spirit of their De<g ref="char:EOLhyphen"/>ſtruction being near at hand.</p>
+            <p>And alſo, the Glory of the Lord that ſhall appear to his PEOPLE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the Bull and Mouth near <hi>Alderſgate,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43129:2"/>
+            <pb n="1" facs="tcp:43129:2" rendition="simple:additions"/>
+            <head>A DECLARATION FROM THE <hi>LORD</hi> of <hi>HOSTS, &amp;c.</hi>
+            </head>
+            <p>THus ſaith the Lord of Hoſts, who is ſtrong and powerful: I will exalt my Name over the Hea<g ref="char:EOLhyphen"/>then round about, for my Purpoſe and Decree is gone forth againſt the Idoll ſhepherds; and I will break down their Idoll gods, and their images which they have made, from the one end of the land to the other; and I will viſit them with a rod for all their tranſgreſſions, wherewith they have been multiplied againſt me, for I have called to mind the heavie yoke (and ſufferings of my people, wherewith they have cauſed them to ſuffer very grievous afflictions) to have been born.</p>
+            <p>I have therefore heard the cry of my people, and am come down to deliver them from the hands of their cruelty, which they have exerciſed from time to time againſt my people, my ſoul hath been grie<g ref="char:EOLhyphen"/>ved with their abominations, they have been too heavie a burthen for me to bear: they have exerci<g ref="char:EOLhyphen"/>ſed cruelty upon cruelty, upon my children, upon my ſervants, and upon my handmaids, and upon my innocent lambs, which are dear unto me as the apple of mine eye, yet I will now be the help and ſtrength of my people; againſt all their adver<g ref="char:EOLhyphen"/>ſaries,
+<pb n="2" facs="tcp:43129:3"/>I will come forth in my might and power, like a man of warr, againſt them, and will incom<g ref="char:EOLhyphen"/>paſſe them on every ſide, they ſhall not be able to eſcape my fury: for I am very jealous for my people, and my fury doth burn like an over againſt all their adverſaries; and I will recompence them double for all their cruelties, and for all their oppreſſions, and for all their afflictions wherewith they have af<g ref="char:EOLhyphen"/>flicted my people; thus ſaith the Lord of Hoſts, who is ſtrong and powerfull, My hand ſhall be dreadfull againſt you, who have bin the Idol-ſhepherds of the land, who have cauſed the people to bow down to Idoll Gods, even the works of your own hands, and have cauſed the people to erre through your lying vanities; all your deceitfull merchandize will I will bring to light, and no man ſhall by your ware any more; and the abomination of your fornication I will diſcover wherewith you have deceived the Nations, for I will thorowly ſearch and cry you, and your fruits ſhall be made manifeſt to all people in<g ref="char:EOLhyphen"/>ſomuch you ſhall become a hiſſing to all people round about, and a dread and terror ſhall proceed from the Lord in all your inhabitations, and ſhall take hold of you, and you ſhall not be able to eſcape his fury: for out of his mouth ſhall proceed a ſharp ſword, which ſhall cut down the groves, and all the high places of <hi>Baal</hi> ſhall be troden under foot, and I will ſeatter all the worſhippers of their Images from place to place, and I will throughly purge this Nation from all its droſſe and defilements, and all Images and likeneſſes will I utterly deſtroy out of this land, and all the high places ſhall become de<g ref="char:EOLhyphen"/>ſolate and barren, even as a wilderneſſe, and they
+<pb n="3" facs="tcp:43129:3" rendition="simple:additions"/>ſhall become a Proverb and a reproach unto all people, and they ſhall be even as a heap of confuſion for ever, before the face of all people; and I will cauſe a ſtinck to go upon them, and ſhall come up into the noſtrils of the people, and they ſhall abhor them, and the beaſts of the field ſhall come up and defile them, and they ſhall become a deſolate ha<g ref="char:EOLhyphen"/>bitation to all people.</p>
+            <p>And I will repair the ruines of my own city, and my own temple to place my name there, and I will lay in my temple, and in my city, a ſure foundation which ſhall not be moved; and I will kindle a fire amongſt my people, and they ſhall utterly conſume all the Idoll-gods of the land, and the remnant of my people ſhall poſſeſs the Nation, and I will in<g ref="char:EOLhyphen"/>compaſſe them with ſtrength on every ſide againſt all their enemies; I will be as a wall of fire, and as a wall of braſs about them, and they ſhall dwell qui<g ref="char:EOLhyphen"/>etly in the midſt of the nation, and I will greatly multiply them with riches and ſtrength, that all Nations ſhall bow down before them; and I will be their leader, and my preſence ſhall go before them, &amp; my Glory ſhall ſhine forth amongſt them, to the confounding of all their enemies: And I will great<g ref="char:EOLhyphen"/>ly multiply their Seed, and it ſhall be the glory of all the Nations, and my ſtrength ſhall be encreaſed therein for their defence, for my everlaſting arme ſhall uphold them; for with perpetual bleſſings have I bleſſed them, for they are my off-ſpring whom I have choſen to place my Name in, and of their dominion there ſhall be no end. I will ſtretch my hands over them in all places for good, and I will place my delight amongſt them, and they ſhall
+<pb n="4" facs="tcp:43129:4"/>grow up to be a fruitful people in the land, and my ſanctuary will I inlarge amongſt them, and will cauſe them to ſit down in peace; and every one ſhall ſit down under his own vine, and under his own fig-tree, and none ſhall make them afraid, and great ſhall be the peace of my people: And I will cauſe my ſun to ſhine upon them with his everlaſting ſtrength to beautifie them. And for the increaſe of their government there ſhall be no end; and I will eſtabliſh them upon Mount <hi>Sion,</hi> the Hill of my own planting; and they ſhall be called the bleſſed of the Lord: My garment of Righteouſneſſe ſhall be put upon them, and I will cloath them with my majeſty before the face of all people, and their Renown ſhall ſhine forth to the Nations round about, and great ſhall be the felicity of my people: And I will adorne them with rich array, and plentiouſneſſe ſhall be in their habitations: and I will put my wiſdome into their mouth, and they ſhall judge my cauſe righteouſly: And my dread and terrour ſhall go forth before them, to the confounding of all their Adverſaries; and I will place true and ſound judgment a<g ref="char:EOLhyphen"/>mongſt them, that the hearts of the people may take delight therein; and the whole land ſhall be governed in peace and righteouſneſſe, and I will feed them with the dew of Heaven, and they ſhall wax fat and ſtrong: And their ſtrength ſhall be even as the ſtrength of an Unicorn: And I will bring forth my everlaſting Covenant, and will e<g ref="char:EOLhyphen"/>ſtabliſh it unto them, and to their poſterity from age to age thorow all Generations, and of their kingdome and dominion there ſhall be no end;
+<pb n="5" facs="tcp:43129:4" rendition="simple:additions"/>for I have ſealed a perpetual decree of Mercy, and Loving kindneſſe unto them, and to their Genera<g ref="char:EOLhyphen"/>tions for ever; and my everlaſting truth and righ<g ref="char:EOLhyphen"/>teouſneſſe ſhall abide with them, which ſhall re<g ref="char:EOLhyphen"/>pleniſh the earth, and bring forth fruit abundant<g ref="char:EOLhyphen"/>ly, ſo that the hearts of the people ſhall be knit un<g ref="char:EOLhyphen"/>to them. And great ſhall be the proſperity of the Nation, and I will abundantly ſatisfie the hearts of my people with good things, that my delight in all things may take place; and I will fortify them in the midſt of the Nation as a ſtrong tower, that no enemy ſhall come nigh unto their dwelling place, for I will be a defence unto them on every ſide, and I will make the hearts of my people glad with the joy of my countinance, and their memo<g ref="char:EOLhyphen"/>riall ſhall continue from age to age, and from ge<g ref="char:EOLhyphen"/>neration to generation, and the Souls of my people ſhall be knit together in one union and harmony, that nothing may ſepaerate them from my love, ſo that peace and love ſhall fructify amongſt them, and great ſhall be the increaſe of my people; I will increaſe their table with all manner of good things, and no good thing will I withhold from my choſen ones, for my Decrees and Statutes ſhall abide with them continually: And I will come and dwell in the midſt of them, and will lead them the way wherein they ſhould walk, and my Sta<g ref="char:EOLhyphen"/>tutes and Judgements ſhall not depart out of their Coaſts; and I will chuſe unto them Judges as at firſt, and Counſellors as at the beginning, who ſhall deal uprightly between me, and my people, who ſhall judge in truth and righteouſneſſe, and ſhall plead the cauſe of the Innocent, that nothing
+<pb n="6" facs="tcp:43129:5"/>that is contrary to truth and enquity ſhall take place among them: Then ſhall the delight of the Lord be amongſt his people, and he ſhall rejoyce over them for good in all the works of their hands; then ſhall the Tabernacle of the Lord ſhine forth with reſplendant beauty in the eyes of the Nations, and the glory thereof ſhall appear to the uttermoſt parts of the earth; and all Nations ſhall bow down before it, and ſhall become ſubject to his power and dominion; and there ſhall ſtream forth a pure law of Righteouſ<g ref="char:EOLhyphen"/>neſſe through the whole earth, and ſhall branch it ſelf forth into the midſt of the Aſſemblies of my People, even amongſt all the Nations found about.</p>
+            <byline>Written by the Movings of the Spirit of the Lord, by one who is called by the name of <hi>LAURENCE WILLYER.</hi>
+            </byline>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:43129:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
